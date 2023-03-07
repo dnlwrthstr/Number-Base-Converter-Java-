@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Number_Base_Converter_(Java).Number_Base_Converter__Java_-task-build-classes-java.main" target="15" />
+      <module name="Number_Base_Converter_(Java).Number_Base_Converter__Java_-task-build-generated-sources-annotationProcessor-java.main" target="15" />
+      <module name="Number_Base_Converter_(Java).Number_Base_Converter__Java_-task-build-generated-sources-headers-java.main" target="15" />
+      <module name="Number_Base_Converter_(Java).Number_Base_Converter__Java_-task-build-reports-tests.main" target="15" />
+      <module name="Number_Base_Converter_(Java).Number_Base_Converter__Java_-task-build-test-results.main" target="15" />
+      <module name="Number_Base_Converter_(Java).Number_Base_Converter__Java_-task-build-tmp.main" target="15" />
+      <module name="Number_Base_Converter_(Java).Number_Base_Converter__Java_-task.main" target="15" />
+      <module name="Number_Base_Converter_(Java).Topics-BigDecimal-Ability_to_change.main" target="15" />
+      <module name="Number_Base_Converter_(Java).Topics-BigDecimal-Gold_mining.main" target="15" />
+      <module name="Number_Base_Converter_(Java).Topics-BigDecimal-Multiplication.main" target="15" />
+      <module name="Number_Base_Converter_(Java).Topics-BigDecimal-Round_and_power.main" target="15" />
+      <module name="Number_Base_Converter_(Java).Topics-BigDecimal-Rounding_with_a_given_precision.main" target="15" />
+      <module name="Number_Base_Converter_(Java).Topics-BigDecimal-Theory.main" target="15" />
+      <module name="Number_Base_Converter_(Java).Topics-BigInteger-Comparing_numbers.main" target="15" />
+      <module name="Number_Base_Converter_(Java).Topics-BigInteger-Double_factorial.main" target="15" />
+      <module name="Number_Base_Converter_(Java).Topics-BigInteger-Multiplication.main" target="15" />
+      <module name="Number_Base_Converter_(Java).Topics-BigInteger-Theory.main" target="15" />
+      <module name="Number_Base_Converter_(Java).Topics-Dealing_with_modifiers-Getting_modifiers.main" target="15" />
+      <module name="Number_Base_Converter_(Java).Topics-Dealing_with_modifiers-List_private_fields.main" target="15" />
+      <module name="Number_Base_Converter_(Java).Topics-Dealing_with_modifiers-List_public_fields.main" target="15" />
+      <module name="Number_Base_Converter_(Java).Topics-Dealing_with_modifiers-Modifiers_support.main" target="15" />
+      <module name="Number_Base_Converter_(Java).Topics-Dealing_with_modifiers-Storing_modifiers.main" target="15" />
+      <module name="Number_Base_Converter_(Java).Topics-Dealing_with_modifiers-Theory.main" target="15" />
+      <module name="Number_Base_Converter_(Java).Topics-Iterating_over_arrays-Individual_taxes.main" target="15" />
+      <module name="Number_Base_Converter_(Java).Topics-Iterating_over_arrays-Right_Rotation.main" target="15" />
+      <module name="Number_Base_Converter_(Java).Topics-Iterating_over_arrays-Select_loops.main" target="15" />
+      <module name="Number_Base_Converter_(Java).Topics-Iterating_over_arrays-Sum_array_elements_greater_than_a_value.main" target="15" />
+      <module name="Number_Base_Converter_(Java).Topics-Iterating_over_arrays-Theory.main" target="15" />
+      <module name="Number_Base_Converter_(Java).Topics-Math_library-Existing_methods.main" target="15" />
+      <module name="Number_Base_Converter_(Java).Topics-Math_library-Heron's_formula.main" target="15" />
+      <module name="Number_Base_Converter_(Java).Topics-Math_library-Pow.main" target="15" />
+      <module name="Number_Base_Converter_(Java).Topics-Math_library-Theory.main" target="15" />
+      <module name="Number_Base_Converter_(Java).Topics-Math_library-What_does_random_produce.main" target="15" />
+      <module name="Number_Base_Converter_(Java).Topics-Math_library-What_is_true.main" target="15" />
+      <module name="Number_Base_Converter_(Java).Topics-Processing_strings-Determine_the_value.main" target="15" />
+      <module name="Number_Base_Converter_(Java).Topics-Processing_strings-Double_characters.main" target="15" />
+      <module name="Number_Base_Converter_(Java).Topics-Processing_strings-Parse_url.main" target="15" />
+      <module name="Number_Base_Converter_(Java).Topics-Processing_strings-The_lucky_ticket.main" target="15" />
+      <module name="Number_Base_Converter_(Java).Topics-Processing_strings-Theory.main" target="15" />
+      <module name="Number_Base_Converter_(Java).Topics-Regexes_in_programs-Card_name_validation_and_identification.main" target="15" />
+      <module name="Number_Base_Converter_(Java).Topics-Regexes_in_programs-Check_IP_address.main" target="15" />
+      <module name="Number_Base_Converter_(Java).Topics-Regexes_in_programs-Ignoring_spaces.main" target="15" />
+      <module name="Number_Base_Converter_(Java).Topics-Regexes_in_programs-Illegal_identifiers.main" target="15" />
+      <module name="Number_Base_Converter_(Java).Topics-Regexes_in_programs-Theory.main" target="15" />
+      <module name="Number_Base_Converter_(Java).Topics-Regexes_in_programs-Vehicle_registration_number.main" target="15" />
+      <module name="Number_Base_Converter_(Java).Topics-The_Map_interface-Getting_submaps.main" target="15" />
+      <module name="Number_Base_Converter_(Java).Topics-The_Map_interface-Kidnapper_of_Ice_cream.main" target="15" />
+      <module name="Number_Base_Converter_(Java).Topics-The_Map_interface-Modifying_a_map.main" target="15" />
+      <module name="Number_Base_Converter_(Java).Topics-The_Map_interface-Sherlock_Holmes_and_removing_of_characters.main" target="15" />
+      <module name="Number_Base_Converter_(Java).Topics-The_Map_interface-Sherlock_Holmes_and_the_mystery_of_anagrams.main" target="15" />
+      <module name="Number_Base_Converter_(Java).Topics-The_Map_interface-The_property_of_TreeMap.main" target="15" />
+      <module name="Number_Base_Converter_(Java).Topics-The_Map_interface-Theory.main" target="15" />
+      <module name="Number_Base_Converter_(Java).Topics-The_Map_interface-Tricky_sub-maps.main" target="15" />
+      <module name="Number_Base_Converter_(Java).util.main" target="15" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
